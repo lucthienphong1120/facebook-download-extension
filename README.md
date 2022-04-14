@@ -9,4 +9,10 @@
 
 ![image](https://user-images.githubusercontent.com/90561566/163335277-cb4370c6-2421-40d7-b46d-6b7e27ebf455.png)
 
-6. 
+5. Click Load Extension and select the extracted folder (facebook-download-extension-main)
+6. Done! Extension loaded
+
+![image](https://user-images.githubusercontent.com/90561566/163335924-cdb4e733-2110-476f-8421-23b550b19667.png)
+
+
+
