@@ -1,7 +1,7 @@
 # Facebook-download-extension
 
 1. Download this repo to your computer and extract or `git clone https://github.com/lucthienphong1120/facebook-download-extension`
-2. Go to http://chrome://extensions/
+2. Go to chrome://extensions/
 
 ![image](https://user-images.githubusercontent.com/90561566/163335111-6a2b812a-361e-4280-a258-a845c7d8ed5f.png)
 
