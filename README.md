@@ -20,7 +20,7 @@
 
 Go to any facebook photo/video you need to download, then turn on the extension icon, a link will appear to download that photo/video.
 
-
+The correct link looks like this: `https://www.facebook.com/<user>/videos/<id>`
 
 
 
