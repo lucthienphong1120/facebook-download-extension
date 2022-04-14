@@ -12,7 +12,15 @@
 5. Click Load Extension and select the extracted folder (facebook-download-extension-main)
 6. Done! Extension loaded
 
-![image](https://user-images.githubusercontent.com/90561566/163335924-cdb4e733-2110-476f-8421-23b550b19667.png)
+![image](https://user-images.githubusercontent.com/90561566/163336918-180cab42-1805-4f99-80bc-31b99b53051f.png)
+
+7. Keep the folder on your computer, this is REQUIED⚠️ (you can save it to C or D drive)
+
+## How to use
+
+Go to any facebook photo/video you need to download, then turn on the extension icon, a link will appear to download that photo/video.
+
+
 
 
 
