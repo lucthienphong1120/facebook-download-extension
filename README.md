@@ -22,5 +22,4 @@ Go to any facebook photo/video you need to download, then turn on the extension 
 
 The correct link looks like this: `https://www.facebook.com/<user>/videos/<id>`
 
-
-
+See this video if you don't know: https://www.youtube.com/watch?v=THy8vkFV5yg
