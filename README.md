@@ -24,6 +24,6 @@ The correct link looks like this: `https://www.facebook.com/<user>/videos/<id>`
 
 ## Demo
 
-https://user-images.githubusercontent.com/90561566/164480760-376160f6-ffb9-49f2-bdf0-e4deadcafc48.mp4
+[upload](https://user-images.githubusercontent.com/90561566/164480760-376160f6-ffb9-49f2-bdf0-e4deadcafc48.mp4)
 
 See this video if you don't know: https://www.youtube.com/watch?v=THy8vkFV5yg
